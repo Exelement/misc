@@ -1,0 +1,11 @@
+<svg width="12px" height="6px" viewBox="0 0 12 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Link-/-Expand-/-Show-less-/-Inverse" transform="translate(-80.000000, -2.000000)" fill="#FFFFFF">
+            <g id="Group" transform="translate(0.000000, -5.000000)">
+                <g transform="translate(80.000000, 4.000000)" id="Chevron">
+                    <path d="M5.383,3.321 C5.564,3.18 5.781,3.11 5.998,3.11 C6.215,3.11 6.433,3.18 6.613,3.322 L11.739,7.322 L10.509,8.898 L5.998,5.379 L1.48,8.899 L0.25,7.321 L5.383,3.321 Z" id="Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

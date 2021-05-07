@@ -1,0 +1,10 @@
+<svg width="6px" height="12px" viewBox="0 0 6 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Link-/-Stand-alone-16-with-Chevron-/-Inverse" transform="translate(-41.000000, 1.000000)">
+            <g id="Chevron" transform="translate(38.000000, -1.000000)">
+                <rect id="Footprint" x="0" y="0" width="12" height="12"></rect>
+                <path d="M8.787,5.376 L4.787,0.25 L3.21,1.48 L6.73,5.991 L3.21,10.51 L4.787,11.738 L8.787,6.605 C9.069,6.244 9.069,5.737 8.787,5.376" id="Icon" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
